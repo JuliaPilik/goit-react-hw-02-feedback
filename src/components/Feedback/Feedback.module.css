@@ -1,0 +1,14 @@
+.button {
+    display:inline block;
+    margin-right:10px;
+    width: 70px;
+    height: 24px;
+    background-image: linear-gradient(to bottom, #ffffff, #e6e6e6);
+    border: 1px solid #c5c5c5;
+    border-radius: 3px;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, .15);
+    cursor:pointer;
+}
+.button:hover {
+    background-image: linear-gradient(to bottom, #bed9f7, #1b82f5);
+}
